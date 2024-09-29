@@ -6,7 +6,7 @@ This repository contains a C-based application designed to handle text input fro
 
 ## Type: Individual Assignment
 
-## Course Objective
+## Project Objective
 
 The objective of this project is to provide hands-on experience in working with C language, particularly focusing on file I/O, string manipulation, sorting, and command-line arguments.
 
