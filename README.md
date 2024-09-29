@@ -17,9 +17,9 @@ The objective of this project is to provide hands-on experience in working with 
 - Implementing sorting and search algorithms using standard C library functions.
 - Gaining experience in handling command-line arguments and parsing input.
 
-## Assignments
+## Assignment
 
-### Assignment 1: Search and Sort Text File Program
+### Search and Sort Text File Program
 
 - **Objective:**  
   To build a simple text search and sort application using C, that can read a file, search for specific words, and display the results in sorted order.
