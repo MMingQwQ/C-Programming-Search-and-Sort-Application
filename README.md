@@ -2,6 +2,8 @@
 
 This repository contains a C-based application designed to handle text input from a file, perform search and sort operations, and display the sorted results. The program takes advantage of command-line arguments, input processing, and sorting algorithms provided by the C standard library. Developed as part of COMP 348.
 
+## Language: C
+
 ## Type: Individual Assignment
 
 ## Course Objective
@@ -31,8 +33,6 @@ The objective of this project is to provide hands-on experience in working with 
   - Skips non-word characters and performs sorting.
   - Displays sorted data in a formatted manner, ensuring proper handling of newlines.
   - Error handling for missing parameters or invalid inputs.
-
-## Language: C
 
 ## IDE
 
